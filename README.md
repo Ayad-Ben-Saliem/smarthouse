@@ -12,6 +12,6 @@ python3 /home/pi/smarthouse/SmartHouseServer2.py & > /home/pi/Desktop/log2.txt 2
 
 * We assume that you clone the repository in "/home/pi" directory.
 
-3- ewstart your embeded device.
+3- restart your embeded device.
 
 4 enjoy.
