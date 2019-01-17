@@ -2,7 +2,7 @@
 This project works as (Smart House Server), a server that serves clients who want to control their things in their places.
 
 # How to use
-1- clone this repository in embeded device.
+1- clone this repository in embeded device (ex. Raspberry Pi).
 
 2- for Linux base operationg systems, open /etc/rc.local as super user and add the follwing two lines at the end (before "exit 0" command):
 
